@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-firebase-annotations/tags/1.0.0,google-firebase-annotations,20544a3bf788001d1e56b2fe26413c94;https://github.com/dandar3/android-google-firebase-annotations;https://github.com/dandar3/android-google-firebase-annotations;branches;tags;trunk;true;f19b4ced-7b11-135b-3c9f-ce57b7db7bff;https://github.com/dandar3/android-google-firebase-annotations;;false;;;0"/>
+</provider>
+</psf>
