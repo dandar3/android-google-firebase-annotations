@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="changeme"
+    package="com.google.firebase.annotations"
     android:versionCode="1600"
     android:versionName="16.0.0">
 </manifest>
